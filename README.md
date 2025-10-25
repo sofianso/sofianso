@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sofian So
 
-### 🧠 DevOps Engineer | AWS Certified (8x) | DevOps & Infrastructure as Code Enthusiast  
+### 🧠 DevOps Engineer | AWS Certified (9x) | DevOps & Infrastructure as Code Enthusiast  
 
 I’m a **DevOps Engineer** with **8 AWS Certifications** and a passion for architecting scalable, secure, and automated cloud environments.  
 My expertise lies in **deploying infrastructure using AWS CloudFormation, CDK, and Terraform**, with hands-on experience building enterprise-grade systems that scale efficiently.
@@ -28,6 +28,7 @@ My expertise lies in **deploying infrastructure using AWS CloudFormation, CDK, a
 - Solutions Architect – Associate
 - Data Engineer - Associate
 - AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
 
 ---
 
