@@ -19,7 +19,7 @@ My expertise lies in **deploying infrastructure using AWS CloudFormation, CDK, a
 
 ---
 
-### 🧾 AWS Certifications (8x)
+### 🧾 AWS Certifications (9x)
 - Solutions Architect – Professional  
 - DevOps Engineer – Professional
 - Security – Specialty  
