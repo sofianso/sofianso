@@ -27,11 +27,6 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofianso&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=sofianso&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophies"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofianso&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution graph"/>
 </p>
 
