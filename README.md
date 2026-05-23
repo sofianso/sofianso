@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats Dashboard
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sofianso&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=sofianso&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=sofianso&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
