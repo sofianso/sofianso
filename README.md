@@ -68,7 +68,7 @@
 ## 🌐 Connect
 - GitHub: [github.com/sofianso](https://github.com/sofianso)  
 - LinkedIn: [linkedin.com/in/sofianso](https://linkedin.com/in/sofianso)  
-- Credly: [credly.com/users/sofian-so](https://www.credly.com/users/sofian-so/badges#credly)
+- Credly: [credly.com/users/sofian-so](https://www.credly.com/users/sofian-so/badges)
 
 ---
 
